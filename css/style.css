@@ -879,7 +879,7 @@ footer{
 
 }
 
-  .icons{
+  .icon{
     filter: invert(30%);
     height: 30px;
     width: 30px;
@@ -890,7 +890,7 @@ footer{
     transition: filter .2s linear;
   }
 
-  .icons:hover{
+  .icon:hover{
     filter: invert(60%);
   }
 
